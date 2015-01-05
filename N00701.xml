@@ -114,8 +114,9 @@
    <text xml:lang="eng">
       <body>
          <div type="address">
-            <pb facs="tcp:000847_0000_0FABA139AD961310"/>
-            <pb facs="tcp:000847_0001_0FABA13A875E90F0" rendition="simple:additions"/>
+            <pb facs="unknown:000847_0000_0FABA139AD961310"/>
+            <pb facs="unknown:000847_0001_0FABA13A875E90F0"
+                rendition="simple:additions"/>
             <head>To the Kings Moſt Excellent Majeſty. The Humble Addreſs of His Excellency <hi>Richard</hi> Earl of <hi>Bellomont,</hi> Your Majeſties Governor, and the Council &amp; Repreſentatives of Your People in Your Majeſties Province of <hi>New-York,</hi> Conven'd in General Aſſembly.</head>
             <opener>
                <salute>May it Pleaſe Your Majeſty;</salute>
